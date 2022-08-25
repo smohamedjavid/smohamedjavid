@@ -7,7 +7,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Statuss**
+- 🏢 I'm currently working at **Status**
 - ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`, `.json`, `.html`, `.scss`, `.svg`, `.psd`
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **DevOps**
