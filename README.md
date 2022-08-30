@@ -10,7 +10,7 @@
 - 🏢 I'm currently working at **Status**
 - ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`, `.json`, `.html`, `.scss`, `.svg`, `.psd`
 - 🌍 I'm mostly active within the **React Community**
-- 🌱 Learning all about **DevOps**
+- 🌱 Learning all about **DevOps** and **Decentralization (Web3)**
 - 💬 Ping me about **UI/UX**, **Design Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - 📫 Reach me: [twitter.com/smohamedjavid](https://twitter.com/smohamedjavid)
 - ⚡️ Fun fact: I'm a developer
