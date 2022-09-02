@@ -8,7 +8,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Status**
-- ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`, `.json`, `.html`, `.scss`, `.svg`, `.psd`
+- ⚙️ I use daily: `.ts`, `.js`, `.json`, `.html`, `.scss`, `.psd`
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Decentralization (Web3)**, **ClojureScript** and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Design Thinking**, **Branding**, **React/React Native**, and **NodeJS**
