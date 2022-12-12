@@ -9,10 +9,10 @@
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Decentralization (Web3)**, **ClojureScript** and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Design Thinking**, **Branding**, **React/React Native**, and **NodeJS**
-- 📫 Reach me: [twitter.com/smohamedjavid](https://twitter.com/smohamedjavid)
 - ⚡️ Fun fact: I'm a developer
 
 <!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
+<!-- - 📫 Reach me: [twitter.com/smohamedjavid](https://twitter.com/smohamedjavid) -->
 
 <!-- 
 
