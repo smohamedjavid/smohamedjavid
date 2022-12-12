@@ -3,17 +3,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/smohamedjavid)](https://www.twitter.com/smohamedjavid) [![Linkedin Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smohamedjavid)](https://www.linkedin.com/in/smohamedjavid) [![Gmail Badge](https://img.shields.io/badge/-smohamedjavid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smohamedjavid@gmail.com)](mailto:smohamedjavid@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smohamedjavid" alt="smohamedjavid" /> </p>
 
-#### I'm a Full-Stack Developer (MERN)
-
 ##### BIO
 
-- 🏢 I'm currently working at **Status**
-- ⚙️ I use daily: `.ts`, `.js`, `.json`, `.html`, `.scss`, `.psd`
+- 🏢 I'm currently contributing to **Status**
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Decentralization (Web3)**, **ClojureScript** and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Design Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - 📫 Reach me: [twitter.com/smohamedjavid](https://twitter.com/smohamedjavid)
 - ⚡️ Fun fact: I'm a developer
+
+<!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
 
 <!-- 
 
