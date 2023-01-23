@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/smohamedjavid)](https://www.twitter.com/smohamedjavid) [![Linkedin Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smohamedjavid)](https://www.linkedin.com/in/smohamedjavid) [![Gmail Badge](https://img.shields.io/badge/-smohamedjavid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smohamedjavid@gmail.com)](mailto:smohamedjavid@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-0xjavid-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/0xjavid)](https://www.twitter.com/0xjavid) [![Linkedin Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smohamedjavid)](https://www.linkedin.com/in/smohamedjavid) [![Gmail Badge](https://img.shields.io/badge/-smohamedjavid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smohamedjavid@gmail.com)](mailto:smohamedjavid@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smohamedjavid" alt="smohamedjavid" /> </p>
 
 ##### BIO
