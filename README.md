@@ -6,13 +6,13 @@
 ##### BIO
 
 - 🏢 I'm currently contributing to **Status**
-- 🌍 I'm mostly active within the **React Community**
-- 🌱 Learning all about **Decentralization (Web3)**, **ClojureScript** and **DevOps**.
-- 💬 Ping me about **UI/UX**, **Design Thinking**, **Branding**, **React/React Native**, and **NodeJS**
+- 🌍 I'm mostly active within the **React** and **Web3** Communities
+- 🌱 Learning all about **Decentralization**, **Smart Contracts**, and **DevOps**.
+- 💬 Ping me about **UI/UX**, **Product Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - ⚡️ Fun fact: I'm a developer
 
 <!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
-<!-- - 📫 Reach me: [twitter.com/smohamedjavid](https://twitter.com/smohamedjavid) -->
+- 📫 Reach me: [x.com/smohamedjavid](https://x.com/smohamedjavid)
 
 <!-- 
 
