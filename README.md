@@ -10,7 +10,6 @@
 - 🌱 Learning all about **Decentralization**, **Smart Contracts**, and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Product Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - ⚡️ Fun fact: I'm a developer
-
 <!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
 - 📫 Reach me: [x.com/smohamedjavid](https://x.com/smohamedjavid)
 
