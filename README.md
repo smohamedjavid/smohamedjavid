@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/smohamedjavid)](https://www.twitter.com/smohamedjavid) [![Linkedin Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smohamedjavid)](https://www.linkedin.com/in/smohamedjavid)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smohamedjavid" alt="smohamedjavid" /> </p>
+<!-- [![Twitter Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/smohamedjavid)](https://www.twitter.com/smohamedjavid) [![Linkedin Badge](https://img.shields.io/badge/-smohamedjavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smohamedjavid)](https://www.linkedin.com/in/smohamedjavid)  -->
+
 
 ##### BIO
 
@@ -10,8 +10,10 @@
 - 🌱 Learning all about **Decentralization**, **Smart Contracts**, and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Product Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - ⚡️ Fun fact: I'm a developer
-<!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
 - 📫 Reach me: [x.com/smohamedjavid](https://x.com/smohamedjavid)
+<!-- - ⚙️ I use daily: `.cljs`, `.ts`, `.json`, `.html`, `.scss`, `.psd` -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smohamedjavid" alt="smohamedjavid" /> </p>
 
 <!-- 
 
