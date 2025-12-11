@@ -5,8 +5,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently contributing to **Status**
-- 🌍 I'm mostly active within the **React** and **Web3** Communities
+<!-- - 🏢 I'm currently contributing to **Nika**  -->
+- 🌍 I'm mostly active within the **React/React Native** and **Web3** Communities
 - 🌱 Learning all about **Decentralization**, **Smart Contracts**, and **DevOps**.
 - 💬 Ping me about **UI/UX**, **Product Thinking**, **Branding**, **React/React Native**, and **NodeJS**
 - ⚡️ Fun fact: I'm a developer
